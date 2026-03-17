@@ -1,0 +1,6 @@
+# Requirements for DDoS Simulation Lab
+# The scripts in this project rely entirely on the Python Standard Library.
+# No external packages (like requests or scapy) are required.
+
+# You can run the scripts directly using a standard Python 3.x installation.
+# Example: python tcp_syn_attack_simulator.py --help
